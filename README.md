@@ -4,4 +4,4 @@ Olá, bem-vindo ao meu portfólio de projetos de **Análise de Dados!** Aqui, vo
 
 ## Case 1 - Análise Estratégica de Vendas (SQL)
 
-[Ver Projeto](link)
+[Ver Projeto](https://github.com/Luan-Frederico/Analise_vendas)
