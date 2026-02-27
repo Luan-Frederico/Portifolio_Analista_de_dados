@@ -22,7 +22,7 @@ Este projeto simula um cenário real de uma empresa do setor de varejo que busca
 
 - Consultas analíticas em SQL Server, utilizando:
 
- - SELECT, WHERE, GROUP BY, HAVING
+  - SELECT, WHERE, GROUP BY, HAVING
 
 CASE WHEN para segmentações estratégicas
 
