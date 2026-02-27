@@ -4,4 +4,17 @@ Olá, bem-vindo ao meu portfólio de projetos de **Análise de Dados!** Aqui, vo
 
 ## Case 1 - Análise Estratégica de Vendas (SQL)
 
+Projeto focado em analisar o desempenho comercial da Contoso, identificando os principais fatores que impactam a receita da empresa, os segmentos mais rentáveis e as regiões com maior potencial de crescimento.
+
+### Objetivos principais
+
+- Identificar categorias e produtos com maior geração de receita
+
+Avaliar o desempenho de vendas ao longo do tempo (crescimento e sazonalidade)
+
+Analisar o comportamento de compra dos clientes e concentração de receita
+
+Identificar regiões e lojas com melhor performance
+
+Apoiar decisões estratégicas de expansão e foco comercial
 [Ver Projeto](https://github.com/Luan-Frederico/Analise_vendas)
