@@ -24,22 +24,30 @@ Este projeto simula um cenário real de uma empresa do setor de varejo que busca
 
   - SELECT, WHERE, GROUP BY, HAVING
 
-CASE WHEN para segmentações estratégicas
+  - CASE WHEN para segmentações estratégicas
 
-JOINs entre tabelas fato e dimensões (modelo estrela)
+  - JOINs entre tabelas fato e dimensões (modelo estrela)
 
-CTEs para organização lógica das análises
+  - CTEs para organização lógica das análises
 
-Window Functions (OVER, PARTITION BY, RANK, SUM, AVG) para rankings, crescimento acumulado e métricas comparativas
+  - Window Functions (OVER, PARTITION BY, RANK, SUM, AVG) para rankings, crescimento acumulado e métricas comparativas
+
+- Análises por dimensões estratégicas:
+
+  - **Produtos:** Faturamento, custo, lucro e margem por categoria e produto; identificação de produtos com alto volume e baixa margem.
+
+  - **Clientes:** Ticket médio, frequência de compra e concentração de receita.
+
+  - **Regional:** Comparação de desempenho entre regiões e lojas, ranking de lucratividade e identificação de mercados com maior potencial.
 
 ### Resultados esperados
 
-- Identificação das categorias com maior contribuição para a receita total
+- Identificação das principais fontes de receita e lucro
 
-- Detecção de concentração de receita em determinados segmentos de clientes
+- Ranking de desempenho por produto, cliente e região
 
-- Mapeamento de regiões com maior ticket médio
+- Evidências para direcionamento de estratégias comerciais
 
-- Evidências para direcionamento de estratégias comerciais e otimização de vendas
+- Base analítica estruturada para apoio à tomada de decisão orientada por dados
 
 [Ver Projeto Completo](https://github.com/Luan-Frederico/Analise_vendas)
