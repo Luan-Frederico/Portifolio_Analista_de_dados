@@ -10,11 +10,36 @@ Projeto focado em analisar o desempenho comercial da Contoso, identificando os p
 
 - Identificar categorias e produtos com maior geração de receita
 
-Avaliar o desempenho de vendas ao longo do tempo (crescimento e sazonalidade)
+- Avaliar o desempenho de vendas ao longo do tempo (crescimento e sazonalidade)
 
-Analisar o comportamento de compra dos clientes e concentração de receita
+- Analisar o comportamento de compra dos clientes e concentração de receita
 
-Identificar regiões e lojas com melhor performance
+- Identificar regiões e lojas com melhor performance
 
-Apoiar decisões estratégicas de expansão e foco comercial
-[Ver Projeto](https://github.com/Luan-Frederico/Analise_vendas)
+- Apoiar decisões estratégicas de expansão e foco comercial
+
+### Principais etapas
+
+- Modelagem e consultas analíticas em SQL Server (JOINs, agregações, CTEs e Window Functions)
+
+- Análise de receita total, ticket médio e ranking de produtos e clientes
+
+- Análise temporal com apoio da DimDate (crescimento anual e mensal)
+
+- Extração dos dados para Python (Pandas)
+
+- Visualização de tendências e padrões com Matplotlib/Seaborn
+
+- Construção de insights estratégicos baseados nos dados
+
+### Resultados esperados
+
+- Identificação das categorias com maior contribuição para a receita total
+
+- Detecção de concentração de receita em determinados segmentos de clientes
+
+- Mapeamento de regiões com maior ticket médio
+
+- Evidências para direcionamento de estratégias comerciais e otimização de vendas
+
+[Ver Projeto Completo](https://github.com/Luan-Frederico/Analise_vendas)
