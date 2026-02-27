@@ -4,33 +4,33 @@ Olá, bem-vindo ao meu portfólio de projetos de **Análise de Dados!** Aqui, vo
 
 ## Case 1 - Análise Estratégica de Vendas (SQL)
 
-Projeto focado em analisar o desempenho comercial da Contoso, identificando os principais fatores que impactam a receita da empresa, os segmentos mais rentáveis e as regiões com maior potencial de crescimento.
+Este projeto simula um cenário real de uma empresa do setor de varejo que busca compreender seu desempenho comercial e financeiro a partir da análise estruturada de dados. Utilizando a base Contoso Retail Data Warehouse, o estudo tem como foco identificar padrões de receita, lucratividade, comportamento de clientes e performance regional para apoiar decisões estratégicas.
 
 ### Objetivos principais
 
-- Identificar categorias e produtos com maior geração de receita
+- Analisar receita, custos, lucro e margem por produto, categoria e subcategoria
 
-- Avaliar o desempenho de vendas ao longo do tempo (crescimento e sazonalidade)
+- Avaliar desempenho de vendas ao longo do tempo (crescimento e sazonalidade)
 
-- Analisar o comportamento de compra dos clientes e concentração de receita
+- Identificar padrões de consumo e concentração de receita por cliente
 
-- Identificar regiões e lojas com melhor performance
+- Comparar desempenho entre regiões, lojas e países
 
-- Apoiar decisões estratégicas de expansão e foco comercial
+- Gerar insights estratégicos para otimização comercial
 
 ### Principais etapas
 
-- Modelagem e consultas analíticas em SQL Server (JOINs, agregações, CTEs e Window Functions)
+- Consultas analíticas em SQL Server, utilizando:
 
-- Análise de receita total, ticket médio e ranking de produtos e clientes
+ - SELECT, WHERE, GROUP BY, HAVING
 
-- Análise temporal com apoio da DimDate (crescimento anual e mensal)
+CASE WHEN para segmentações estratégicas
 
-- Extração dos dados para Python (Pandas)
+JOINs entre tabelas fato e dimensões (modelo estrela)
 
-- Visualização de tendências e padrões com Matplotlib/Seaborn
+CTEs para organização lógica das análises
 
-- Construção de insights estratégicos baseados nos dados
+Window Functions (OVER, PARTITION BY, RANK, SUM, AVG) para rankings, crescimento acumulado e métricas comparativas
 
 ### Resultados esperados
 
