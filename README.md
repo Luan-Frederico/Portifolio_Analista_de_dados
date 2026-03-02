@@ -4,7 +4,7 @@ Olá, bem-vindo ao meu portfólio de projetos de **Análise de Dados!** Aqui, vo
 
 ## Case 1 - Análise Estratégica de Vendas (SQL)
 
-Este projeto simula um cenário real de uma empresa do setor de varejo que busca compreender seu desempenho comercial e financeiro a partir da análise estruturada de dados. Utilizando a base Contoso Retail Data Warehouse, o estudo tem como foco identificar padrões de receita, lucratividade, comportamento de clientes e performance regional para apoiar decisões estratégicas.
+Este projeto simula um cenário real de uma empresa do setor de varejo que busca compreender seu desempenho comercial e financeiro a partir da análise estruturada de dados. Utilizando a base Contoso Retail Data Warehouse, o estudo tem como foco identificar padrões de **receita, lucratividade, comportamento de clientes e performance regional** para apoiar decisões estratégicas.
 
 ### Objetivos principais
 
@@ -42,7 +42,7 @@ Este projeto simula um cenário real de uma empresa do setor de varejo que busca
 
 ### Resultados esperados
 
-- Identificação das principais fontes de receita e lucro
+- Identificação das principais fontes de receita e lucro por produto, categoria e subscategoria, perfil de cliente e região.
 
 - Ranking de desempenho por produto, cliente e região
 
