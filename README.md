@@ -30,21 +30,17 @@ Este projeto simula um cenário real de uma empresa do setor de varejo que busca
 
   - CTEs para organização lógica das análises
 
-  - Window Functions (OVER, PARTITION BY, RANK, SUM, AVG) para rankings, crescimento acumulado e métricas comparativas
-
 - Análises por dimensões estratégicas:
 
   - **Produtos:** Faturamento, custo, lucro e margem por categoria e produto; identificação de produtos com alto volume e baixa margem.
 
   - **Clientes:** Ticket médio, frequência de compra e concentração de receita.
 
-  - **Regional:** Comparação de desempenho entre regiões e lojas, ranking de lucratividade e identificação de mercados com maior potencial.
+  - **Regional:** Comparação de desempenho entre regiões e lojas e identificação de mercados com maior potencial.
 
 ### Resultados esperados
 
 - Identificação das principais fontes de receita e lucro por produto, categoria e subscategoria, perfil de cliente e região.
-
-- Ranking de desempenho por produto, cliente e região
 
 - Evidências para direcionamento de estratégias comerciais
 
