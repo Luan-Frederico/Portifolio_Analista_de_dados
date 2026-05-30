@@ -47,3 +47,5 @@ Este projeto simula um cenário real de uma empresa do setor de varejo que busca
 - Base analítica estruturada para apoio à tomada de decisão orientada por dados
 
 [Ver Projeto Completo](https://github.com/Luan-Frederico/Analise_vendas)
+
+## Case 2: Análise de Veendas - Dashoard Comercial (Power BI)
