@@ -49,3 +49,5 @@ Este projeto simula um cenário real de uma empresa do setor de varejo que busca
 [Ver Projeto Completo](https://github.com/Luan-Frederico/Analise_vendas)
 
 ## Case 2: Análise de Veendas - Dashoard Comercial (Power BI)
+
+[Ver projeto Completo](https://github.com/Luan-Frederico/Case2_Analise_vendas)
