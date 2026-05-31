@@ -2,7 +2,7 @@
 
 Olá, bem-vindo ao meu portfólio de projetos de **Análise de Dados!** Aqui, você encontrará estudos sobre problemas reais e/ou projetos acadêmicos envolvendo **SQL, Power BI, Python, R e Excel/Google Sheets**, com foco em **tratamento, organização, análise e interpretação de dados, além da criação de dashboards interativos e geração de insights estratégicos.** Explore os projetos e descubra como análise de dados pode transformar informações em decisões valiosas e impactantes!
 
-## Case 1 - Análise Estratégica de Vendas (SQL)
+## Case 1: Análise Estratégica de Vendas (SQL)
 
 Este projeto simula um cenário real de uma empresa do setor de varejo que busca compreender seu desempenho comercial e financeiro a partir da análise estruturada de dados. Utilizando a base Contoso Retail Data Warehouse, o estudo tem como foco identificar padrões de **receita, lucratividade, comportamento de clientes e performance regional** para apoiar decisões estratégicas.
 
@@ -48,6 +48,6 @@ Este projeto simula um cenário real de uma empresa do setor de varejo que busca
 
 [Ver Projeto Completo](https://github.com/Luan-Frederico/Analise_vendas)
 
-## Case 2: Análise de Veendas - Dashoard Comercial (Power BI)
+## Case 2: Análise de Vendas - Dashboard Comercial (Power BI)
 
 [Ver projeto Completo](https://github.com/Luan-Frederico/Case2_Analise_vendas)
