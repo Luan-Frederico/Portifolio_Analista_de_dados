@@ -16,7 +16,7 @@ Este projeto simula um cenário real de uma empresa do setor de varejo que busca
 
 - Comparar desempenho entre regiões, lojas e países
 
-- Gerar insights estratégicos para otimização comercial
+- **Objetivo principal:** Gerar insights estratégicos para otimização comercial
 
 ### Principais etapas
 
@@ -53,5 +53,44 @@ Este projeto simula um cenário real de uma empresa do setor de varejo que busca
 Este projeto tem como objetivo desenvolver uma solução completa de **Business Intelligence (BI)** para avaliar o **desempenho comercial**, a **eficiência de faturamento** e o **comportamento de compra** de uma carteira de clientes ativos. A análise e a estruturação dos dados foram conduzidas integralmente no **Power BI**.  
 O foco do projeto foi aplicar lógica analítica, modelagem de dados e engenharia de fórmulas DAX para transformar tabelas transacionais brutas e descentralizadas em um **painel altamente interativo**. A solução desenvolvida visa **eliminar pontos cegos operacionais** e fornecer **diagnósticos rápidos e precisos** para dar **suporte estratégico à tomada de decisão**.
 
+### Objetivos principais
+
+- Consolidar e automatizar o acompanhamento dos **KPI's mestres** — Faturamento Total, Ticket Médio, Base de Clientes e Volume de Vendas — para fornecer à liderança um diagnóstico imediato e centralizado da performance organizacional.
+
+- Avaliar a **evolução temporal do faturamento** (visão mensal) e identificar os principais pilares de receita através do ranking de performance por clientes e vendedores.
+
+- Mapear a representatividade das receitas por categorias, subcategorias e produtos, permitindo identificar os itens que lideram o volume de vendas e sustentam o faturamento da operação.
+
+- Utilizar métricas avançadas e visuais de análise profunda para identificar tendências, correlações e anomalias entre volume e receita, e rastrear o fluxo granular de cada transação (TKM) diagnóstico mais preciso.
+
+- **Objetivo Principal:** Atuar como o pilar central da solução, convertendo o processamento analítico em recomendações práticas para mitigar gargalos operacionais, otimizar a rentabilidade da carteira e fundamentar escolhas táticas focadas no crescimento sustentável do faturamento, visando oferecer suporte estratégico à decisão do negócio.
+
+### Principais etapas
+
+- Desenvolvimento analítico no Power BI, utilizando:
+
+    - **Power Query** para extração, limpeza e transformação de dados (ETL).
+  
+    - Relacionamentos e Modelagem Star Schema (Modelo Estrela) de 1:N entre tabelas fato e dimensões (Clientes, Produtos e Vendedores).
+
+    - Fórmulas **DAX** para criação de camadas de medidas de inteligência comercial, desde KPI's básicos até indicadores avançados.
+
+    - **Storytelling** para estruturação de dashboards interativos em Dark Mode, utilizando leitura em Z e navegação por botões.
+
+- Análises por dimensões estratégicas:
+  
+    - **Produtos:** Faturamento e volume por categoria, subcategoria e produto individual; identificação de itens líderes de receita e análise da representatividade dos segmentos.
+
+    - **Clientes:** Monitoramento de ticket médio, faturamento médio e mediano por conta; identificação de recorrência de compra e concentração de receita em perfis.
+ 
+    - **Performance Comercial e Diagnósticos:** Evolução mensal do faturamento, ranking de desempenho por vendedor e uso de visuais de dispersão e decomposição para rastrear o fluxo granular da receita e identificar tendências/anomalias.
+
+### Resultados esperados
+
+- Identificação das principais fontes de receita por produto, categoria e subcategoria, perfil de cliente e performance da equipe de vendas.
+
+- Evidências para direcionamento de estratégias comerciais, extraídas através de diagnósticos e análise de comportamento de compra.
+  
+- Base analítica e visual estruturada e automatizada para apoio à tomada de decisão orientada por dados (data-driven), eliminando pontos cegos e a morosidade na extração de indicadores.
 
 [Ver projeto Completo](https://github.com/Luan-Frederico/Case2_Analise_vendas)
