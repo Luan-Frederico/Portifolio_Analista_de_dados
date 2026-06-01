@@ -48,6 +48,8 @@ Este projeto simula um cenário real de uma empresa do setor de varejo que busca
 
 [Ver Projeto Completo](https://github.com/Luan-Frederico/Analise_vendas)
 
-## Case 2: Análise de Vendas - Dashboard Comercial (Power BI)
+## Case 2: Análise de Vendas e Inteligência de dados (Power BI)
+
+Este projeto desenvolve uma solução completa de **Business Intelligence (BI)** para avaliar o **desempenho comercial**, a **eficiência de faturamento** e o **comportamento de compra** de uma carteira de clientes ativos. O foco central é transformar dados transacionais brutos e descentralizados em um ecossistema de **diagnósticos estratégicos**, eliminando pontos cegos operacionais e fornecendo suporte de alto nível para a **tomada de decisão**.
 
 [Ver projeto Completo](https://github.com/Luan-Frederico/Case2_Analise_vendas)
