@@ -50,6 +50,8 @@ Este projeto simula um cenário real de uma empresa do setor de varejo que busca
 
 ## Case 2: Análise de Vendas e Inteligência de dados (Power BI)
 
-Este projeto desenvolve uma solução completa de **Business Intelligence (BI)** para avaliar o **desempenho comercial**, a **eficiência de faturamento** e o **comportamento de compra** de uma carteira de clientes ativos. O foco central é transformar dados transacionais brutos e descentralizados em um ecossistema de **diagnósticos estratégicos**, eliminando pontos cegos operacionais e fornecendo suporte de alto nível para a **tomada de decisão**.
+Este projeto tem como objetivo desenvolver uma solução completa de **Business Intelligence (BI)** para avaliar o **desempenho comercial**, a **eficiência de faturamento** e o **comportamento de compra** de uma carteira de clientes ativos. A análise e a estruturação dos dados foram conduzidas integralmente no **Power BI**.  
+O foco do projeto foi aplicar lógica analítica, modelagem de dados e engenharia de fórmulas DAX para transformar tabelas transacionais brutas e descentralizadas em um **painel altamente interativo**. A solução desenvolvida visa **eliminar pontos cegos operacionais** e fornecer **diagnósticos rápidos e precisos** para dar **suporte estratégico à tomada de decisão**.
+
 
 [Ver projeto Completo](https://github.com/Luan-Frederico/Case2_Analise_vendas)
