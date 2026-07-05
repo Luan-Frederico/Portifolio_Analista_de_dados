@@ -83,7 +83,7 @@ O foco do projeto foi aplicar lógica analítica, modelagem de dados e engenhari
 
     - **Clientes:** Monitoramento de ticket médio, faturamento médio e mediano por conta; identificação de recorrência de compra e concentração de receita em perfis.
  
-    - **Performance Comercial e Diagnósticos:** Evolução mensal do faturamento, ranking de desempenho por vendedor e uso de visuais de dispersão e decomposição para rastrear o fluxo granular da receita e identificar tendências/anomalias.
+    - **Performance Comercial e Diagnósticos:** Evolução mensal do faturamento, ranking de desempenho por vendedor e uso de visuais de dispersão para rastrear o fluxo granular da receita e identificar tendências/anomalias.
 
 ### Resultados esperados
 
